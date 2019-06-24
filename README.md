@@ -58,7 +58,8 @@ SSM+Vue开发网络商城
 1.2 系统后台功能分析
         管理员在后台，则可以对系统进行各项管理操作，包括滞销商品的下架，新增热门商品，以及对商品的价格，对商品的规格的选择，和库存量的管理等。
 
-        ![image](https://github.com/gqzGitHub/shop/blob/master/images/2018060715542133.png)
+       ![image](https://github.com/gqzGitHub/shop/blob/master/images/2018060715542133.png)
+
 
         ①管理员登陆
 
@@ -90,52 +91,19 @@ SSM+Vue开发网络商城
 
     数据库设计
 
-
-
-
-
-
-
-
-
 项目架构
-
-          
-
-
-
-
-
+      
  项目功能效果图
-
-
-
-
-
-
-
-
-
-
-
+ ![image](https://github.com/gqzGitHub/shop/blob/master/images/20180607160050241.png)
+ ![image](https://github.com/gqzGitHub/shop/blob/master/images/20180607160235560.png)
+ ![image](https://github.com/gqzGitHub/shop/blob/master/images/20180712143209402.png)
 
 后台管理模块：
-
-
-
-
-
-
-
+ ![image](https://github.com/gqzGitHub/shop/blob/master/images/20190506233633974.png)
 
 [ 点击下载] 项目完成代码             打赏
 
  移动APP端：
-
-
-
-
-
 
   【商城移动APP 】开发文档     Reward
 
@@ -157,19 +125,7 @@ http://ganquanzhong.top/shop/getNewProduct
 
 http://ganquanzhong.top/shop/getHotProduct 
 
-
-
-
-
-
-
-
-
-项目 源码 请联系  
-
-+QQ   2027776292                   【系统演示】
-
-   
+```xml 
 
 项目配置说明书：
 
@@ -185,3 +141,4 @@ http://ganquanzhong.top/shop/getHotProduct 
 
        在tomcat中配置虚拟路径，视频文件存放的位置！
        <Context docBase="E:\\ShopFile\\upload\\" path="/upload" reloadable="true"/>
+```
